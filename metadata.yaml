@@ -1,0 +1,45 @@
+_repo: Freedom-in-Science-and-Teaching.from-the-German-of-Ernst-Haeckel_25711
+_version: 0.1.0
+alternative_title: Freie wissenschaft und freie lehr. English
+contributor:
+  commentator:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haeckel, Ernst
+    alias: Haeckel, Ernst Heinrich Philipp August
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '2037'
+    url: http://www.gutenberg.org/2009/agents/2037
+    wikipedia: http://en.wikipedia.org/wiki/Ernst_Haeckel
+description: ''
+gutenberg_issued: '2008-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LA'
+- !lcsh 'Teaching, Freedom of'
+- !lcsh 'Evolution (Biology)'
+- !lcsh 'Virchow, Rudolf Ludwig Karl, 1821-1902. Freiheit der Wissenschaft im modernen
+  Staat'
+- !lcc 'QH'
+- !lcsh 'Science -- Study and teaching'
+title: 'Freedom in Science and Teaching.
+
+  from the German of Ernst Haeckel'
+url: http://www.gutenberg.org/ebooks/25711
